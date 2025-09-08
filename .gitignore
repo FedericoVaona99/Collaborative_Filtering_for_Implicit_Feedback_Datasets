@@ -1,0 +1,7 @@
+# ========================================
+# Ignore large original Last.fm dataset
+# ========================================
+Original-lastfm-dataset-1K/
+
+# Ignore reduced CSV >100MB
+Datasets-lastfm-reduced/
